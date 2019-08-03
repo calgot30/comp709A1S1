@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventHandling</string>
+    <string name="button_action">Click me Hoss</string>
+    <string name="name_resource">Hello</string>
+</resources>
